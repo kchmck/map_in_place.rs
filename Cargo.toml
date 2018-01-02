@@ -1,6 +1,9 @@
 [package]
-name = "map_in_place"
-description = "Mutate a slice in place via a map function"
+name = "slice_mip"
 version = "1.0.0"
 authors = ["Mick Koch <mick@kochm.co>"]
+description = "Mutate a slice in place with a map function"
 license = "MIT"
+documentation = "https://docs.rs/slice_mip"
+repository = "https://github.com/kchmck/slice_mip.rs"
+keywords = ["slice", "map", "in", "place"]
